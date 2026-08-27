@@ -214,5 +214,5 @@ Open your browser and navigate to the local URL (typically `http://localhost:850
 
 ## Authors
 
-- [Add Team Members]
-- College / Academic Project Presentation
+- Sanchita Suryawanshi & Atharva Gahine
+- ITM Skills University
